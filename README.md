@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Flat-style images without shields -->
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=flat&logo=react&logoColor=white" alt="Full Stack Developer Badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=flat&logo=react&logoColor=white" alt="Full Stack Developer" title="Full Stack Developer"/>
   <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=flat&logo=linux&logoColor=black" alt="IT Support Badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=flat&logo=security&logoColor=white" alt="Cybersecurity Badge"/>
 </p>
