@@ -2,11 +2,12 @@
 <h3 align="center">Junior Full Stack Developer | IT Specialist | Cybersecurity Enthusiast</h3>
 
 <p align="center">
+  <!-- Static image shields with no links -->
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=for-the-badge&logo=security&logoColor=white" />
 </p>
- 
+
 ---
 
 ## 🔥 About Me  
@@ -54,23 +55,24 @@ To leverage my **development, IT, and security** expertise to **build impactful 
 ## ⚡ Tech Stack  
 
 ### 💻 Programming & Development  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+<!-- Static badges without links -->
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 
 ### 🔐 Cybersecurity & Networking  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![Network Security](https://img.shields.io/badge/Network%20Security-%23000.svg?style=for-the-badge&logo=security&logoColor=white)  
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%230077B5.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Cryptography](https://img.shields.io/badge/Cryptography-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white)  
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Network%20Security-%23000.svg?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-%230077B5.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white" />
 
 ### 🛠 IT Infrastructure & Support  
-![System Admin](https://img.shields.io/badge/System%20Admin-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![DNS](https://img.shields.io/badge/DNS-%236DB33F.svg?style=for-the-badge&logo=cloudflare&logoColor=white)  
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-%23FF9900.svg?style=for-the-badge&logo=windows&logoColor=white)  
-![Active Directory](https://img.shields.io/badge/Active%20Directory-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
+<img src="https://img.shields.io/badge/System%20Admin-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS-%236DB33F.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Troubleshooting-%23FF9900.svg?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active%20Directory-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ---
 
