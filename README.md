@@ -34,21 +34,21 @@ To leverage my **development, IT, and security** expertise to **build impactful 
 ## 🏆 Certifications  
 
 ### 📌 IT & Security  
-- 🎖️ **Google IT Support Specialization** [(Show Credential)](https://www.coursera.org)  
-- 🔰 **IT Security: Defense Against the Digital Dark Arts** [(Show Credential)](https://www.coursera.org)  
-- ⚡ **System Administration & IT Infrastructure Services** [(Show Credential)](https://www.coursera.org)  
-- 🌐 **Google Certified: The Bits and Bytes of Computer Networking** [(Show Credential)](https://www.coursera.org)  
-- 🛠 **Cisco Certified: Introduction to Networks** [(Show Credential)](https://www.netacad.com)  
+- 🎖️ **Google IT Support Specialization** [(Show Credential)](https://www.coursera.org/account/accomplishments/specialization/TYTB60MV1MGG)  
+- 🔰 **IT Security: Defense Against the Digital Dark Arts** [(Show Credential)](https://coursera.org/verify/4H1FPBJ9WQ4L)  
+- ⚡ **System Administration & IT Infrastructure Services** [(Show Credential)](https://coursera.org/verify/HF8WR9WXOWW9)  
+- 🌐 **Google Certified: The Bits and Bytes of Computer Networking** [(Show Credential)](https://coursera.org/verify/4M9A5UM8Z6RA)  
+- 🛠 **Cisco Certified: Introduction to Networks** [(Show Credential)](https://drive.google.com/drive/folders/1Qnm27LKOkDnga3EezKZ8Bc2Uk3LhIVzf)  
 
 ### 🔐 Cybersecurity & Networking  
-- 🔥 **Introduction to Cyber Security** [(Show Credential)](https://www.coursera.org)  
-- 🛡️ **Cyber Attack Countermeasures** [(Show Credential)](https://www.coursera.org)  
-- 🔍 **Real-Time Cyber Threat Detection & Mitigation** [(Show Credential)](https://www.coursera.org)  
+- 🔥 **Introduction to Cyber Security** [(Show Credential)](https://coursera.org/verify/specialization/QX962BTCLSJG)  
+- 🛡️ **Cyber Attack Countermeasures** [(Show Credential)](https://coursera.org/verify/DNNU2UTZYZDH)  
+- 🔍 **Real-Time Cyber Threat Detection & Mitigation** [(Show Credential)](https://coursera.org/verify/GFD9N48BDJED)  
 
 ### 💻 Software Development & Data Science  
-- 🏅 **IBM Data Scientist Certification** [(Show Credential)](https://www.ibm.com)  
-- 🏆 **HackerRank Problem Solving (Intermediate)** [(Show Credential)](https://www.hackerrank.com)  
-- 🎯 **HackerRank Python (Basic)** [(Show Credential)](https://www.hackerrank.com)  
+- 🏅 **IBM Data Scientist Certification** [(Show Credential)](https://drive.google.com/file/d/1MqO2g8Whg5Zkkkuh1boyGGSRX0lJhyDB/view)  
+- 🏆 **HackerRank Problem Solving (Intermediate)** [(Show Credential)](https://drive.google.com/file/d/1O8S9zDmR4WKb-vpZn2ySC9rWflxrrqvA/view?usp=drive_link)  
+- 🎯 **HackerRank Python (Basic)** [(Show Credential)](https://drive.google.com/file/d/1S7fz9WvkkRHAlTS87x6NOwhyqsURuNGi/view?usp=drive_link)  
 
 ---
 
