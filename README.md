@@ -2,10 +2,10 @@
 <h3 align="center">Junior Full Stack Developer | IT Specialist | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <!-- Static image shields with no links -->
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=for-the-badge&logo=security&logoColor=white" />
+  <!-- Static image shields without links -->
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer Badge"/>
+  <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=for-the-badge&logo=linux&logoColor=black" alt="IT Support Badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity Badge"/>
 </p>
 
 ---
@@ -56,23 +56,23 @@ To leverage my **development, IT, and security** expertise to **build impactful 
 
 ### 💻 Programming & Development  
 <!-- Static badges without links -->
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
 
 ### 🔐 Cybersecurity & Networking  
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Network%20Security-%23000.svg?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-%230077B5.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cryptography-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+<img src="https://img.shields.io/badge/Network%20Security-%23000.svg?style=for-the-badge&logo=security&logoColor=white" alt="Network Security Badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-%230077B5.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing Badge"/>
+<img src="https://img.shields.io/badge/Cryptography-%23FF5733.svg?style=for-the-badge&logo=security&logoColor=white" alt="Cryptography Badge"/>
 
 ### 🛠 IT Infrastructure & Support  
-<img src="https://img.shields.io/badge/System%20Admin-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/DNS-%236DB33F.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Troubleshooting-%23FF9900.svg?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Active%20Directory-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Admin-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="System Admin Badge"/>
+<img src="https://img.shields.io/badge/DNS-%236DB33F.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS Badge"/>
+<img src="https://img.shields.io/badge/Troubleshooting-%23FF9900.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Troubleshooting Badge"/>
+<img src="https://img.shields.io/badge/Active%20Directory-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory Badge"/>
 
 ---
 
@@ -96,13 +96,13 @@ A **fully responsive personal portfolio** showcasing my **projects, skills, and 
 
 <p align="center">
   <a href="mailto:yahyaibrahem45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/yehiaibrahim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="tel:0564269560">
-    <img src="https://img.shields.io/badge/Call%20Me-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Call%20Me-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call Me Badge"/>
   </a>
 </p>
 
