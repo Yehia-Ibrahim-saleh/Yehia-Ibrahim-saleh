@@ -1,40 +1,40 @@
-## Hi there! 👋 I'm Yehia Ibrahim
+🚀 Yehia Ibrahim - Junior Full Stack Developer & IT Specialist
+👋 About Me
+Hi there! I'm Yehia, a passionate Full Stack Developer & IT Specialist with a knack for building robust applications and securing IT infrastructures. With a BSc in Computer Science, I have a strong foundation in software development, IT infrastructure, and cybersecurity.
 
-### 🚀 IT Support Specialist | Cybersecurity Enthusiast | Software Developer
+I thrive in problem-solving environments, whether it's writing efficient code, troubleshooting systems, or fortifying networks against security threats. My expertise spans Python, Java, JavaScript, React, SQL, and cloud technologies, making me well-equipped for both software development and IT support roles.
 
-I'm a passionate IT professional with a strong foundation in software development, cybersecurity, and network administration. My expertise spans across IT support, full-stack development, and problem-solving in high-pressure environments.
+🏆 Certifications & Expertise
+I’ve earned industry-recognized certifications that solidify my skills in IT support, cybersecurity, networking, and software development:
 
----
+🔹 IT & Security
+✅ Google IT Support Specialization (Mar 2025)
+✅ IT Security: Defense Against the Digital Dark Arts (Mar 2025)
+✅ System Administration & IT Infrastructure Services (Mar 2025)
+✅ Google Certified: The Bits and Bytes of Computer Networking (Aug 2023)
+✅ Google Certified: Technical Support Fundamentals (Aug 2023)
+✅ Cisco Certified: Introduction to Networks (Jul 2023)
+🔹 Cybersecurity & Networking
+🔐 Introduction to Cyber Security (Aug 2021)
+🔐 Cyber Attack Countermeasures (Aug 2021)
+🔐 Enterprise & Infrastructure Security (Aug 2021)
+🔐 Real-Time Cyber Threat Detection & Mitigation (Aug 2021)
+🔹 Software Development & Data Science
+🖥️ IBM Data Scientist Certification (Apr 2024 - Oct 2024)
+🏅 HackerRank Problem Solving (Intermediate) (Mar 2025)
+🏅 HackerRank Python (Basic) (Mar 2025)
+🛠️ Skills & Technologies
+🔹 Full Stack Development: Python, Java, JavaScript, React, Node.js, SQL
+🔹 Cybersecurity: Network Security, Threat Modeling, Cryptography, Cyber Defense
+🔹 IT Infrastructure & Networking: System Administration, Linux, DNS, Cloud Computing
+🔹 Data Science & AI: Machine Learning, Data Analysis, Data Visualization
 
-### 📌 About Me
-- 🎓 **Dual Computer Science Degree** from the University of Northampton (UK) and the Arab Academy for Science and Technology (Egypt).
-- 💻 **Technical Skills:**
-  - Programming: Python, Java, C++
-  - Web Development: HTML, CSS, JavaScript
-  - Databases: SQL, MongoDB, PHP
-  - IT Support & Networking: Linux, DNS, CLI, Active Directory, Cybersecurity
-- 🔧 **Certifications:**
-  - Google IT Support Fundamentals
-  - Cisco Introduction to Networks
-  - HackerRank Problem Solving (Basic & Intermediate)
-  - IBM Data Scientist (DEPI Program)
-- 🌱 Currently learning **PowerShell, LDAP, and Backup Systems** to enhance my IT support expertise.
+📌 Featured Projects
+🔹 HeyDoc Medical Chatbot – AI-powered chatbot for medical consultations.
+🔹 Computer Guardian Platform – Security-focused tool for system protection and monitoring.
+🔹 SIC-XE Assembler – A Python-based assembler for SIC/XE architecture.
 
----
-
-### 📌 Notable Projects
-- **HeyDoc Medical Chatbot** 🤖
-  - Built a secure AI-driven chatbot that reduced unnecessary hospital visits by **30%**.
-- **Computer Guardian Platform** 🖥️
-  - Developed an automated hardware procurement system that improved efficiency by **35%**.
-- **SIC-XE Assembler** 🔢
-  - Created a Python-based assembler that achieved **100% accuracy** in object code generation.
-
----
-
-### 📫 Let's Connect!
-- **GitHub:** [github.com/yehiaibrahim1308](https://github.com/yehiaibrahim1308)
-- **LinkedIn:** [linkedin.com/in/yehia-ibrahim-8154b0201](https://www.linkedin.com/in/yehia-ibrahim-8154b0201/)
-- **Portfolio:** [yehiaibrahim1308.github.io](https://yehiaibrahim1308.github.io)
-- 📧 **Email:** yahyaibrahem45@gmail.com
-- 📞 **Phone:** +971 564269560
+📞 Contact Me
+📧 Email: yahyaibrahem45@gmail.com
+📱 Phone: 056 426 9560
+💼 LinkedIn: linkedin.com/in/yehiaibrahim
