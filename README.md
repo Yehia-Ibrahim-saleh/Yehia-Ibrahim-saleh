@@ -15,7 +15,7 @@
 👋 Hey there! I'm **Yehia Ibrahim**, a **highly driven and solutions-oriented Full Stack Developer & IT Specialist** with a passion for **technology, cybersecurity, and problem-solving**. I hold a **BSc in Computer Science** and have experience working across **software development, IT infrastructure, system administration, and network security**.  
 
 🔹 **Why Tech?**  
-### Ever since I wrote my first line of code, I knew technology was where I belonged. I thrive in **building innovative applications**, securing **IT environments**, and **solving complex technical challenges**. My expertise spans from developing **scalable web applications** to **securing networks and troubleshooting IT issues**.  
+ Ever since I wrote my first line of code, I knew technology was where I belonged. I thrive in **building innovative applications**, securing **IT environments**, and **solving complex technical challenges**. My expertise spans from developing **scalable web applications** to **securing networks and troubleshooting IT issues**.  
 
 🔹 **What I Bring to the Table:**  
 ✔️ Strong foundation in **software engineering & full stack development**  
