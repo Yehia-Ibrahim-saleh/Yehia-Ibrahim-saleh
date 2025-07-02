@@ -35,16 +35,6 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
 </td>
 <td width="50%" valign="top">
 
-### 📊 **Current Stats**
-```
-🔥 Active Projects: 8+
-🏆 Certifications: 12+
-💼 Years of Experience: 3+
-🌐 Technologies Mastered: 20+
-🔐 Security Frameworks: 5+
-☁️ Cloud Platforms: AWS, Azure
-```
-
 ### 🎯 **Core Competencies**
 - **Full Stack Development** (MERN, Django)
 - **System Administration** (Linux, Windows Server)
@@ -166,28 +156,17 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Technologies | 🔗 Links |
-|------------|----------------|------------------|----------|
-| **🩺 HeyDoc AI Chatbot** | Intelligent healthcare assistant providing medical triage and health guidance using advanced NLP | `Python` `NLP` `TensorFlow` `Flask` | [🔗 Demo](#) • [📂 Code](#) |
-| **🔐 Computer Guardian** | Real-time cybersecurity monitoring platform with threat detection and automated response | `Python` `Network Security` `MongoDB` `React` | [🔗 Demo](#) • [📂 Code](#) |
-| **⚙️ SIC-XE Assembler** | Complete two-pass assembler for SIC-XE architecture with symbol table management | `Python` `System Programming` `Assembly` | [📂 Code](#) • [📖 Docs](#) |
-| **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `React` `Tailwind CSS` `Framer Motion` | [🌐 Live](#) • [📂 Code](#) |
-| **📊 IT Infrastructure Dashboard** | Comprehensive monitoring dashboard for network and system administration | `Node.js` `Express` `Chart.js` `Socket.io` | [🔗 Demo](#) • [📂 Code](#) |
+| 🎯 Project | 📝 Description | 🛠️ Technologies |
+|------------|----------------|------------------|
+| **🩺 HeyDoc AI Chatbot** | Intelligent healthcare assistant providing medical triage and health guidance using advanced NLP | `Python` `NLP` `TensorFlow` `Flask` |
+| **🔐 Computer Guardian** | Real-time cybersecurity monitoring platform with threat detection and automated response | `Python` `Network Security` `MongoDB` `React` |
+| **⚙️ SIC-XE Assembler** | Complete two-pass assembler for SIC-XE architecture with symbol table management | `Python` `System Programming` `Assembly` |
+| **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `React` `Tailwind CSS` `Framer Motion` |
+| **📊 IT Infrastructure Dashboard** | Comprehensive monitoring dashboard for network and system administration | `Node.js` `Express` `Chart.js` `Socket.io` |
 
 </div>
 
----
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
-</div>
 
 ---
 
@@ -208,22 +187,7 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
   </a>
 </div>
 
----
 
-## 🎖️ Achievements & Recognition
-
-<div align="center">
-
-```
-🏆 12+ Professional Certifications Earned
-🚀 8+ Major Projects Completed
-🔐 5+ Security Frameworks Mastered
-🌐 3+ Years of Industry Experience
-💼 100+ IT Issues Successfully Resolved
-📊 Multiple Data Science Projects Delivered
-```
-
-</div>
 
 ---
 
