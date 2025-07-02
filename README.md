@@ -182,7 +182,7 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
   <a href="https://wa.me/+971564269560">
     <img src="https://img.shields.io/badge/💬_WhatsApp-Quick%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/https://github.com/Yehia-Ibrahim-saleh?tab=repositories">
+  <a href="https://github.com/Yehia-Ibrahim-saleh?tab=repositories">
     <img src="https://img.shields.io/badge/👨‍💻_GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
   </a>
 </div>
