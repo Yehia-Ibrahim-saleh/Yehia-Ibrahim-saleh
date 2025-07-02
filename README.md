@@ -14,12 +14,31 @@
 
 ## 🔍 About Me
 
-👋 I'm **Yehia Ibrahim**, a **results-oriented Full Stack Developer** and **IT Specialist** with a background in Computer Science and a dual degree from Egypt 🇪🇬 and the UK 🇬🇧.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=👋+I'm+Yehia+Ibrahim;Results-oriented+Full+Stack+Developer;IT+Specialist+with+Dual+Degrees;Egypt+🇪🇬+and+UK+🇬🇧+Background;Computer+Science+Graduate" alt="About Me Animation" />
+</div>
 
-I specialize in:
-- Building scalable applications ⚙️
-- Providing robust IT support 🛠️
-- Enhancing cybersecurity 🔐
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1500&color=4ECDC4&center=true&vCenter=true&width=250&lines=⚙️+Building+Scalable+Apps;📱+Modern+Web+Solutions;🚀+Innovation+Focused" alt="Development" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1500&color=FFE66D&center=true&vCenter=true&width=250&lines=🛠️+Robust+IT+Support;🖥️+System+Administration;⚡+Technical+Solutions" alt="IT Support" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=250&lines=🔐+Enhanced+Security;🛡️+Threat+Detection;🔍+Risk+Mitigation" alt="Cybersecurity" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=400&lines=Always+learning.;Always+building.;Always+securing." alt="Motto Animation" />
@@ -34,25 +53,27 @@ I specialize in:
 <td align="center" width="300">
 
 ### 🎓 **IT & System Administration**
-• Google IT Support  
-• System Admin & Infrastructure Services  
-• Cisco Networks  
-• IT Security Fundamentals
+🔗 **[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/TYTB60MV1MGG)**  
+🔗 **[System Admin & Infrastructure](https://coursera.org/verify/HF8WR9WXOWW9)**  
+🔗 **[Cisco Networks](https://drive.google.com/drive/folders/1Qnm27LKOkDnga3EezKZ8Bc2Uk3LhIVzf)**  
+🔗 **[IT Security Defense](https://coursera.org/verify/4H1FPBJ9WQ4L)**
 
 </td>
 <td align="center" width="300">
 
 ### 🔐 **Cybersecurity**
-• Intro to Cybersecurity  
-• Cyber Attack Countermeasures  
-• Threat Detection & Mitigation
+🔗 **[Intro to Cybersecurity](https://coursera.org/verify/specialization/QX962BTCLSJG)**  
+🔗 **[Cyber Attack Countermeasures](https://coursera.org/verify/DNNU2UTZYZDH)**  
+🔗 **[Threat Detection & Mitigation](https://coursera.org/verify/GFD9N48BDJED)**  
+🔗 **[Computer Networking](https://coursera.org/verify/4M9A5UM8Z6RA)**
 
 </td>
 <td align="center" width="300">
 
 ### 💻 **Development & Data**
-• IBM Data Scientist  
-• HackerRank (Problem Solving + Python)
+🔗 **[IBM Data Scientist](https://drive.google.com/file/d/1MqO2g8Whg5Zkkkuh1boyGGSRX0lJhyDB/view)**  
+🔗 **[HackerRank Problem Solving](https://drive.google.com/file/d/1O8S9zDmR4WKb-vpZn2ySC9rWflxrrqvA/view?usp=drive_link)**  
+🔗 **[HackerRank Python](https://drive.google.com/file/d/1S7fz9WvkkRHAlTS87x6NOwhyqsURuNGi/view?usp=drive_link)**
 
 </td>
 </tr>
@@ -95,18 +116,7 @@ I specialize in:
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yehiaibrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehiaibrahim&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehiaibrahim&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
