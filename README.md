@@ -1,323 +1,135 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated README Preview</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0d1117;
-            color: #c9d1d9;
-            padding: 20px;
-            margin: 0;
-            line-height: 1.6;
-        }
-        
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            background: #161b22;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-        }
+# <div align="center">🚀 Yehia Ibrahim Saleh</div>
 
-        h1 {
-            text-align: center;
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            background: linear-gradient(45deg, #00ff88, #0077ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Specialist;Cybersecurity+Enthusiast" alt="Typing Animation" />
+</div>
 
-        .rocket {
-            display: inline-block;
-            animation: rocket-float 3s ease-in-out infinite;
-        }
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=flat&logo=security&logoColor=white"/>
+</p>
 
-        .fade-in {
-            animation: fadeIn 2s ease-in-out;
-        }
+---
 
-        .subtitle {
-            text-align: center;
-            font-size: 1.2em;
-            margin-bottom: 20px;
-            color: #7c3aed;
-        }
+## 🔍 About Me
 
-        .typing {
-            display: inline-block;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 2px solid #00ff88;
-            animation: typing 3.5s steps(40, end), blink .75s step-end infinite;
-            font-weight: bold;
-            color: #00ff88;
-        }
+👋 I'm **Yehia Ibrahim**, a **results-oriented Full Stack Developer** and **IT Specialist** with a background in Computer Science and a dual degree from Egypt 🇪🇬 and the UK 🇬🇧.
 
-        .badges {
-            text-align: center;
-            margin: 20px 0;
-        }
+I specialize in:
+- Building scalable applications ⚙️
+- Providing robust IT support 🛠️
+- Enhancing cybersecurity 🔐
 
-        .badges img {
-            margin: 5px;
-            transition: transform 0.3s ease;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=400&lines=Always+learning.;Always+building.;Always+securing." alt="Motto Animation" />
+</div>
 
-        .badges img:hover {
-            transform: scale(1.1);
-            animation: badge-glow 1s ease-in-out;
-        }
+---
 
-        .section-title {
-            font-size: 1.5em;
-            margin: 30px 0 15px 0;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: slideInLeft 1s ease-out;
-        }
+## 🏅 Certifications
 
-        .about-content {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-            animation: slideInUp 1s ease-out;
-        }
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-            margin: 20px 0;
-        }
+### 🎓 **IT & System Administration**
+• Google IT Support  
+• System Admin & Infrastructure Services  
+• Cisco Networks  
+• IT Security Fundamentals
 
-        .tech-item {
-            background: #21262d;
-            padding: 15px;
-            border-radius: 8px;
-            text-align: center;
-            transition: all 0.3s ease;
-            border: 1px solid #30363d;
-            animation: fadeInUp 0.8s ease-out;
-        }
+</td>
+<td align="center" width="300">
 
-        .tech-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0,255,136,0.2);
-            border-color: #00ff88;
-        }
+### 🔐 **Cybersecurity**
+• Intro to Cybersecurity  
+• Cyber Attack Countermeasures  
+• Threat Detection & Mitigation
 
-        .project-card {
-            background: #21262d;
-            padding: 20px;
-            margin: 15px 0;
-            border-radius: 10px;
-            border-left: 4px solid #7c3aed;
-            transition: all 0.3s ease;
-            animation: slideInRight 1s ease-out;
-        }
+</td>
+<td align="center" width="300">
 
-        .project-card:hover {
-            transform: translateX(10px);
-            box-shadow: 0 5px 20px rgba(124, 58, 237, 0.3);
-        }
+### 💻 **Development & Data**
+• IBM Data Scientist  
+• HackerRank (Problem Solving + Python)
 
-        .contact-section {
-            text-align: center;
-            margin: 30px 0;
-        }
+</td>
+</tr>
+</table>
 
-        .contact-section a {
-            display: inline-block;
-            margin: 10px;
-            transition: transform 0.3s ease;
-        }
+---
 
-        .contact-section a:hover {
-            transform: scale(1.1) rotate(5deg);
-        }
+## 🧰 Tech Stack
 
-        .footer {
-            text-align: center;
-            font-size: 1.1em;
-            margin-top: 40px;
-            animation: pulse 2s ease-in-out infinite;
-        }
+<div align="center">
 
-        /* Animations */
-        @keyframes fadeIn {
-            0% { opacity: 0; transform: translateY(-20px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-        @keyframes fadeInUp {
-            0% { opacity: 0; transform: translateY(30px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
+**Security & IT:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-        @keyframes slideInLeft {
-            0% { opacity: 0; transform: translateX(-50px); }
-            100% { opacity: 1; transform: translateX(0); }
-        }
+</div>
 
-        @keyframes slideInRight {
-            0% { opacity: 0; transform: translateX(50px); }
-            100% { opacity: 1; transform: translateX(0); }
-        }
+---
 
-        @keyframes slideInUp {
-            0% { opacity: 0; transform: translateY(30px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
+## 🚀 Featured Projects
 
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
+<div align="center">
 
-        @keyframes blink {
-            50% { border-color: transparent; }
-        }
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🩺 [HeyDoc Chatbot](https://github.com/yourrepo)** | AI assistant for healthcare-related queries & triage | Python, NLP, AI |
+| **🔐 [Computer Guardian](https://github.com/yourrepo)** | Real-time security monitoring platform | Python, Cybersecurity APIs |
+| **⚙️ [SIC-XE Assembler](https://github.com/yourrepo)** | Low-level instruction assembler built in Python | Python, System Programming |
+| **🌐 [Portfolio Website](https://github.com/yourrepo)** | Responsive React + Tailwind portfolio | React, Tailwind CSS |
 
-        @keyframes rocket-float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
+</div>
 
-        @keyframes badge-glow {
-            0%, 100% { box-shadow: 0 0 5px rgba(0,255,136,0.3); }
-            50% { box-shadow: 0 0 20px rgba(0,255,136,0.8); }
-        }
+---
 
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.7; }
-        }
+## 📊 GitHub Analytics
 
-        hr {
-            border: none;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, #00ff88, transparent);
-            margin: 30px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1><span class="rocket">🚀</span> <span class="fade-in">Yehia Ibrahim Saleh</span></h1>
-        <h3 class="subtitle">Full Stack Developer | IT Specialist | Cybersecurity Enthusiast</h3>
-        
-        <div class="badges">
-            <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=flat&logo=react&logoColor=white"/>
-            <img src="https://img.shields.io/badge/IT%20Support-%23F7DF1E.svg?style=flat&logo=linux&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Cybersecurity-%231572B6.svg?style=flat&logo=security&logoColor=white"/>
-        </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yehiaibrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehiaibrahim&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-        <hr>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehiaibrahim&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-        <h2 class="section-title">🔍 <span class="fade-in">About Me</span></h2>
-        <div class="about-content">
-            <p>👋 I'm <strong>Yehia Ibrahim</strong>, a <strong>results-oriented Full Stack Developer</strong> and <strong>IT Specialist</strong> with a background in Computer Science and a dual degree from Egypt 🇪🇬 and the UK 🇬🇧.</p>
-            
-            <p><strong>I specialize in:</strong></p>
-            <ul>
-                <li>Building scalable applications ⚙️</li>
-                <li>Providing robust IT support 🛠️</li>
-                <li>Enhancing cybersecurity 🔐</li>
-            </ul>
-            
-            <p>🚀 <span class="typing">Always learning. Always building. Always securing.</span></p>
-        </div>
+---
 
-        <hr>
+## 📬 Let's Connect
 
-        <h2 class="section-title">🏅 Certifications</h2>
-        <div class="tech-grid">
-            <div class="tech-item">
-                <h4>🎓 IT & System Administration</h4>
-                <p>• Google IT Support<br>
-                • System Admin & Infrastructure<br>
-                • Cisco Networks<br>
-                • IT Security Fundamentals</p>
-            </div>
-            <div class="tech-item">
-                <h4>🔐 Cybersecurity</h4>
-                <p>• Intro to Cybersecurity<br>
-                • Cyber Attack Countermeasures<br>
-                • Threat Detection & Mitigation</p>
-            </div>
-            <div class="tech-item">
-                <h4>💻 Development & Data</h4>
-                <p>• IBM Data Scientist<br>
-                • HackerRank Problem Solving<br>
-                • HackerRank Python</p>
-            </div>
-        </div>
+<p align="center">
+  <a href="mailto:yahyaibrahem45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/+971564269560">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-        <hr>
+---
 
-        <h2 class="section-title">🧰 Tech Stack</h2>
-        <div class="about-content">
-            <p><strong>Languages & Frameworks:</strong><br>
-            🟨 JavaScript & React | 🟦 Python & Django | 🟧 Java | 🟩 Node.js</p>
-            
-            <p><strong>Security & IT:</strong><br>
-            🐧 Linux | 🔐 Network Security | ☁️ AWS | 🧾 Cryptography<br>
-            🖥️ System Admin | 🌐 DNS | 🧩 Troubleshooting | 🪪 Active Directory</p>
-        </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Let's+innovate%2C+secure%2C+and+build+the+future+together.+✨" alt="Footer Animation" />
+</div>
 
-        <hr>
-
-        <h2 class="section-title">🚀 Projects</h2>
-        
-        <div class="project-card">
-            <h3>🩺 HeyDoc Chatbot</h3>
-            <p>AI assistant for healthcare-related queries & triage.</p>
-        </div>
-
-        <div class="project-card">
-            <h3>🔐 Computer Guardian</h3>
-            <p>A real-time security monitoring platform.</p>
-        </div>
-
-        <div class="project-card">
-            <h3>⚙️ SIC-XE Assembler</h3>
-            <p>Low-level instruction assembler built in Python.</p>
-        </div>
-
-        <div class="project-card">
-            <h3>🌐 Portfolio Website</h3>
-            <p>Responsive React + Tailwind portfolio to showcase work.</p>
-        </div>
-
-        <hr>
-
-        <h2 class="section-title">📬 Contact Me</h2>
-        <div class="contact-section">
-            <a href="mailto:yahyaibrahem45@gmail.com">
-                <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-            </a>
-            <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-            </a>
-            <a href="https://wa.me/+971564269560">
-                <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-            </a>
-        </div>
-
-        <hr>
-
-        <div class="footer">
-            <h3>✨ Let's innovate, secure, and build the future together. ✨</h3>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
