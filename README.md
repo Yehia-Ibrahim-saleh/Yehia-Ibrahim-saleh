@@ -159,7 +159,7 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
 | 🎯 Project | 📝 Description | 🛠️ Technologies |
 |------------|----------------|------------------|
 | **🩺 HeyDoc AI Chatbot** | Intelligent healthcare assistant providing medical triage and health guidance using advanced NLP | `Python` `NLP` `TensorFlow` `Flask` |
-| **🔐 Computer Guardian** | Computer Guardian is an all-in-one platform built with PHP, HTML, CSS, and JavaScript, designed to simplify custom PC building by offering tech guides, the latest news, and seamless component purchasing.| `Python` `Network Security` `MongoDB` `React` |
+| **🔐 Computer Guardian** | Computer Guardian is an all-in-one platform designed to simplify custom PC building by offering tech guides, the latest news, and seamless component purchasing.|  `PHP`,`HTML`, `CSS`, `JavaScript` |
 | **⚙️ SIC-XE Assembler** | Complete two-pass assembler for SIC-XE architecture with symbol table management | `Python` `System Programming` `Assembly` |
 | **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `JS` `CSS`  |
 
