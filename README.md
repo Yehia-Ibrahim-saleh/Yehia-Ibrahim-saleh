@@ -161,8 +161,7 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
 | **🩺 HeyDoc AI Chatbot** | Intelligent healthcare assistant providing medical triage and health guidance using advanced NLP | `Python` `NLP` `TensorFlow` `Flask` |
 | **🔐 Computer Guardian** | Real-time cybersecurity monitoring platform with threat detection and automated response | `Python` `Network Security` `MongoDB` `React` |
 | **⚙️ SIC-XE Assembler** | Complete two-pass assembler for SIC-XE architecture with symbol table management | `Python` `System Programming` `Assembly` |
-| **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `React` `Tailwind CSS` `Framer Motion` |
-| **📊 IT Infrastructure Dashboard** | Comprehensive monitoring dashboard for network and system administration | `Node.js` `Express` `Chart.js` `Socket.io` |
+| **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `JS` `CSS`  |
 
 </div>
 
