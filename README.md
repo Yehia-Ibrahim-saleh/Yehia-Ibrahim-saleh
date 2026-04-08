@@ -1,31 +1,38 @@
-![Banner](https://your-image-link-here)
+# <div align="center">👨‍💻 Yehia Ibrahim Saleh</div>
 
-# Yehia Ibrahim
-### Building AI-powered systems | Distributed Systems | Cybersecurity
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Systems;Distributed+Systems+%2B+Cybersecurity;IT+Infrastructure+%26+Automation;Turning+Complex+Problems+into+Scalable+Solutions" />
+</div>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Systems%20%7C%20Security&descAlignY=55&descAlign=center" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%20🇦🇪-00C851?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building → NeuraMed v2 (AI + RAG pipeline)
-- 🌱 Learning → LangChain, Docker, Kubernetes  
-- 💬 Ask me about → Flask APIs, Distributed Systems (RMI), Networking  
-- 📍 Based in → Abu Dhabi, UAE  
-- ⚡ Fun fact → Dual-degree Computer Science graduate
+- 🔭 Currently building → **NeuraMed v2 (AI + RAG pipeline)**
+- 🌱 Learning → **LangChain · Docker · Kubernetes**
+- 💬 Ask me about → **Flask APIs · Distributed Systems (RMI) · Networking**
+- ⚡ Background → **Dual-degree Computer Science (UK 🇬🇧 + Egypt 🇪🇬)**
 
 ---
 
 ## 🚧 Currently Working On
 
-- 🧠 NeuraMed v2 — adding RAG pipeline + smarter diagnosis
-- ☁️ Exploring cloud deployment (AWS + Docker)
-- 🔐 Practicing real-world cybersecurity labs
+- 🧠 Enhancing AI medical chatbot with smarter reasoning (RAG)
+- ☁️ Deploying full-stack apps using Docker & AWS
+- 🔐 Practicing hands-on cybersecurity labs & threat analysis
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yehia-Ibrahim-saleh&show_icons=true&theme=tokyonight" />
@@ -42,83 +49,49 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
-### Languages
-JavaScript · Python · Java · TypeScript · C++ · PHP
+<div align="center">
 
-### Frontend
-React · Next.js · Tailwind CSS · HTML5 · CSS3
+**Languages**  
+JavaScript · Python · Java · TypeScript · C++  
 
-### Backend & Databases
-Node.js · Django · Express.js · Flask  
-MongoDB · PostgreSQL · MySQL
+**Frontend**  
+React · Next.js · Tailwind · HTML · CSS  
 
-### DevOps, Cloud & Security
-AWS · Docker · Linux · Kali Linux · Wireshark · Active Directory · Git
+**Backend & Databases**  
+Node.js · Django · Express · MongoDB · PostgreSQL · MySQL  
+
+**DevOps & Systems**  
+AWS · Docker · Linux · Git  
+
+**Security & Networking**  
+Wireshark · Active Directory · Kali Linux · Network Security  
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 NeuraMed — AI Medical Chatbot  
-[🔗 View Repository](https://github.com/your-link)  
+<div align="center">
 
-Built an AI-powered chatbot delivering real-time symptom analysis and emotional support.  
-- Reduced unnecessary hospital visits by **30%**  
-- Implemented secure authentication (JWT)  
-- Designed with privacy and healthcare compliance  
+| 🚀 Project | 💡 Description | 🛠️ Tech |
+|-----------|--------------|--------|
+| **🩺 NeuraMed AI Chatbot** | AI-powered medical assistant with real-time triage — reduced unnecessary hospital visits by **30%** | `Python` `TensorFlow` `Flask` `MongoDB` |
+| 🔗 https://github.com/your-link |
+| **⚙️ Distributed File System** | Fault-tolerant Java RMI system with **80% consistency improvement** | `Java` `RMI` |
+| 🔗 https://github.com/your-link |
+| **🖥️ Computer Guardian** | PC platform improving procurement time by **35%** | `PHP` `JavaScript` `MySQL` |
+| 🔗 https://github.com/your-link |
+| **🔧 SIC/XE Assembler** | Built full assembler with **100% accurate object code** | `Python` |
+| 🔗 https://github.com/your-link |
+| **📊 Data Insights Dashboard** | Improved data quality by **40%**, boosted decision-making | `SQL` `Power BI` |
+| 🔗 https://github.com/your-link |
+| **🌐 Portfolio Website** | Responsive UI with animations | `JavaScript` `CSS` |
+| 🔗 https://github.com/your-link |
 
-**Tech:** Python · TensorFlow · Flask · MongoDB · NLP  
-
----
-
-### ⚙️ Distributed File System — Java RMI  
-[🔗 View Repository](https://github.com/your-link)  
-
-Engineered a distributed system with fault tolerance and consistency mechanisms.  
-- Improved system efficiency by **50%**  
-- Achieved **80% consistency reliability**  
-
-**Tech:** Java · RMI · Distributed Systems  
-
----
-
-### 🖥️ Computer Guardian — PC Parts Platform  
-[🔗 View Repository](https://github.com/your-link)  
-
-Developed a full-stack platform aggregating tech content and live product inventory.  
-- Reduced procurement time by **35%**  
-- Increased user engagement by **40%**  
-
-**Tech:** PHP · JavaScript · MySQL · REST APIs  
-
----
-
-### 🔧 SIC/XE Assembler  
-[🔗 View Repository](https://github.com/your-link)  
-
-Developed a two-pass assembler from scratch generating accurate object code.  
-
-**Tech:** Python · Compiler Design  
-
----
-
-### 📊 Publishing House Data Insights  
-[🔗 View Repository](https://github.com/your-link)  
-
-Designed a data analytics pipeline improving data quality and decision-making.  
-
-**Tech:** SQL Server · Power BI · OLAP  
-
----
-
-### 🌐 Personal Portfolio  
-[🔗 View Repository](https://github.com/your-link)  
-
-Responsive portfolio with modern UI and animations.  
-
-**Tech:** JavaScript · HTML · CSS  
+</div>
 
 ---
 
@@ -129,22 +102,32 @@ Responsive portfolio with modern UI and animations.
 - Cybersecurity Specialization (Coursera)
 
 <details>
-<summary>Show More Certifications</summary>
+<summary>Show More</summary>
 
 - Cisco Networking  
 - System Administration  
-- HackerRank (Python, Problem Solving)  
+- HackerRank (Python, Problem Solving)
 
 </details>
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Connect With Me
 
-📧 Email: yahyaibrahem45@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/yehia-ibrahim-8154b0201/  
-💻 GitHub: https://github.com/Yehia-Ibrahim-saleh  
+<div align="center">
+  <a href="mailto:yahyaibrahem45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yehia-Ibrahim-saleh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-📍 Abu Dhabi, UAE | Open to Full-Time & Internship Opportunities
+<div align="center">
+  📍 Abu Dhabi, UAE | Open to Full-Time & Internship Opportunities
+</div>
