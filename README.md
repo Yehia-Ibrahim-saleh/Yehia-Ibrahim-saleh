@@ -1,112 +1,31 @@
-:# <div align="center">👨‍💻 Yehia Ibrahim Saleh</div>
+# <div align="center">🚀 Yehia Ibrahim Saleh</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IT+Specialist+%26+System+Administrator;Cybersecurity+Enthusiast;Problem+Solver+%26+Tech+Innovator" alt="Professional Title Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=37BCF8&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Explorer;Cybersecurity+%26+Systems+Architect;UAE+Golden+Visa+Holder+🇦🇪" alt="Professional Title" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Technology%20Today&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Building%20Digital%20Excellence&fontSize=40&fontColor=fff&animation=fadeIn" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-0077B5?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🛠️_Expertise-IT%20Infrastructure-F7DF1E?style=for-the-badge&labelColor=000000&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/🔐_Passion-Cybersecurity-FF6B35?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🌍_Location-UAE%20🇦🇪-00C851?style=for-the-badge&labelColor=000000"/>
+  <a href="https://github.com/Yehia-Ibrahim-saleh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia-Ibrahim-saleh&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Professional Overview
+## 👨‍💻 About Me
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+> "I don't just write code; I build systems that solve real-world problems."
 
-### 🚀 **Who I Am**
-Results-driven **Full Stack Developer** and **IT Specialist** with dual academic backgrounds from Egypt 🇪🇬 and the UK 🇬🇧. Combining **Computer Science expertise** with hands-on experience in building scalable applications, managing IT infrastructure, and implementing robust security solutions.
+I am a **Computer Science Graduate (Dual Degree: Egypt 🇪🇬 & UK 🇬🇧)** based in Abu Dhabi. My focus lies at the intersection of **Full-Stack Development** and **Security Architecture**. I enjoy the challenge of making complex systems faster, more secure, and more accessible.
 
-### 💡 **What Drives Me**
-- **Innovation**: Crafting cutting-edge solutions that solve real-world problems
-- **Security**: Building systems that protect and empower users
-- **Excellence**: Delivering high-quality, maintainable code and solutions
-- **Growth**: Continuously learning and adapting to emerging technologies
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **Core Competencies**
-- **Full Stack Development** (MERN, Django)
-- **System Administration** (Linux, Windows Server)
-- **Network Security** & **Threat Analysis**
-- **Cloud Infrastructure** & **DevOps**
-- **Database Management** & **API Development**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Professional Certifications
-
-<div align="center">
-
-### 🛡️ **Cybersecurity & IT Security**
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔐-Intro%20to%20Cybersecurity-FF6B35?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://coursera.org/verify/specialization/QX962BTCLSJG">🔗 Verify Certificate</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚔️-Cyber%20Attack%20Countermeasures-DC143C?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://coursera.org/verify/DNNU2UTZYZDH">🔗 Verify Certificate</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🛡️-Threat%20Detection-8B0000?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://coursera.org/verify/GFD9N48BDJED">🔗 Verify Certificate</a>
-</td>
-</tr>
-</table>
-
-### 🖥️ **IT Support & System Administration**
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔧-Google%20IT%20Support-4285F4?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://www.coursera.org/account/accomplishments/specialization/TYTB60MV1MGG">🔗 Verify Certificate</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⚙️-System%20Administration-FF8C00?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://coursera.org/verify/HF8WR9WXOWW9">🔗 Verify Certificate</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🌐-Cisco%20Networks-1BA0D7?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://drive.google.com/drive/folders/1Qnm27LKOkDnga3EezKZ8Bc2Uk3LhIVzf">🔗 View Certificate</a>
-</td>
-</tr>
-</table>
-
-### 💻 **Development & Data Science**
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📊-IBM%20Data%20Scientist-052FAD?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://drive.google.com/file/d/1MqO2g8Whg5Zkkkuh1boyGGSRX0lJhyDB/view">🔗 View Certificate</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🧩-Problem%20Solving-00EA64?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://drive.google.com/file/d/1O8S9zDmR4WKb-vpZn2ySC9rWflxrrqvA/view?usp=drive_link">🔗 HackerRank</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🐍-Python%20Expert-3776AB?style=for-the-badge&labelColor=000000"/>
-<br><a href="https://drive.google.com/file/d/1S7fz9WvkkRHAlTS87x6NOwhyqsURuNGi/view?usp=drive_link">🔗 HackerRank</a>
-</td>
-</tr>
-</table>
-
-</div>
+- 🌍 **Location:** Abu Dhabi, UAE (Golden Visa Holder)
+- 🎓 **Education:** Dual B.Sc. in Computer Science (AAST & University of Northampton)
+- 🛡️ **Focus:** Scalable Web Apps, Distributed Systems, and Threat Mitigation
+- ⚡ **Availability:** Immediately available for Software Engineering roles
 
 ---
 
@@ -114,82 +33,82 @@ Results-driven **Full Stack Developer** and **IT Specialist** with dual academic
 
 <div align="center">
 
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### **Development & Languages**
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,cpp,go,bash,html,css)](https://skillicons.dev)
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **Frameworks & Infrastructure**
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,mongodb,mysql,postgres,aws,docker,linux,git)](https://skillicons.dev)
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Security & Networking**
-![Network Security](https://img.shields.io/badge/Network_Security-FF6B35?style=for-the-badge&logo=security&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### **Security & Tools**
+[![My Skills](https://skillicons.dev/icons?i=kali,wireshark,bash,powershell,postman,figma)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 Featured Projects
 
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🛠️ Technologies |
-|------------|----------------|------------------|
-| **🩺 HeyDoc AI Chatbot** | Intelligent healthcare assistant providing medical triage and health guidance using advanced NLP | `Python` `NLP` `TensorFlow` `Flask` |
-| **🔐 Computer Guardian** | Computer Guardian is an all-in-one platform designed to simplify custom PC building by offering tech guides, the latest news, and seamless component purchasing.|  `PHP`,`HTML`, `CSS`, `JavaScript` |
-| **⚙️ SIC-XE Assembler** | Complete two-pass assembler for SIC-XE architecture with symbol table management | `Python` `System Programming` `Assembly` |
-| **🌐 Dynamic Portfolio** | Responsive portfolio website with modern design and interactive elements | `JS` `CSS`  |
-
-</div>
-
-
-
----
-
-## 🤝 Professional Network
-
-<div align="center">
-  <a href="mailto:yahyaibrahem45@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/+971564269560">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-Quick%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/Yehia-Ibrahim-saleh?tab=repositories">
-    <img src="https://img.shields.io/badge/👨‍💻_GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-  </a>
-</div>
-
-
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🩺 HeyDoc AI Chatbot</h4>
+      <p>Engineered a Python/TensorFlow ML-powered triage system providing real-time diagnostic predictions and symptom triage, reducing unnecessary clinic visits by 30%.</p>
+      <code>Python</code> <code>TensorFlow</code> <code>Flask</code> <code>NLP</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Computer Guardian</h4>
+      <p>A centralized full-stack ecosystem aggregating inventory from 5 major retailers. Implemented PHP-driven logistics for nationwide PC component delivery.</p>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>E-commerce</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ SIC-XE Assembler</h4>
+      <p>Low-level systems project demonstrating deep compiler design. Generates 100% accurate object code from assembly programs.</p>
+      <code>Python</code> <code>System Programming</code> <code>Assembly</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📁 RMI Distributed File System</h4>
+      <p>Architected a distributed file system using Java RMI, achieving 80% data consistency via logical clock algorithms and priority queue management.</p>
+      <code>Java</code> <code>RMI</code> <code>Distributed Systems</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 📜 Professional Certifications
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=💫+Innovating+Technology+Solutions;🔐+Securing+Digital+Infrastructures;🚀+Building+Tomorrow's+Applications;🤝+Let's+Create+Something+Amazing+Together!" alt="Footer Motivation" />
+
+| 🔐 Cybersecurity | 🔧 IT & Cloud | 📊 Data & Dev |
+| :--- | :--- | :--- |
+| **[Intro to Cybersecurity](https://coursera.org/verify/specialization/QX962BTCLSJG)** | **[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/TYTB60MV1MGG)** | **[IBM Data Scientist](https://drive.google.com/file/d/1MqO2g8Whg5Zkkkuh1boyGGSRX0lJhyDB/view)** |
+| **[Cyber Attack Countermeasures](https://coursera.org/verify/DNNU2UTZYZDH)** | **[Cisco Networking](https://drive.google.com/drive/folders/1Qnm27LKOkDnga3EezKZ8Bc2Uk3LhIVzf)** | **[Problem Solving (HackerRank)](https://www.hackerrank.com/certificates/e3a89d385f0e)** |
+| **[Threat Detection](https://coursera.org/verify/GFD9N48BDJED)** | **[Azure Fundamentals](https://learn.microsoft.com/)** | **[Meta Front-End Dev](https://coursera.org/verify/professional-cert/S2G4W3Y8L5L)** |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:yahyaibrahem45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/+971564269560"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Ibrahim-saleh&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <i>⭐ "Logic is the beginning of wisdom, not the end." ⭐</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=100&section=footer" />
 </div>
