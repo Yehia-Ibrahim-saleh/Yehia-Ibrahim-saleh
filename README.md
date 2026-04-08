@@ -11,7 +11,6 @@
 <!-- Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Available-00C851?style=for-the-badge&logo=statuspal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UAE_Golden_Visa-Holder-FFB800?style=for-the-badge&logo=emirates&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-0077B5?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Passion-Cybersecurity-FF6B35?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
@@ -19,111 +18,150 @@
 ---
 
 
+## 👤 About Me
 
+> *Building systems that deliver real-world impact — not just code that runs.*
 
-## 👨‍💻 About Me
-
-🎓 **Dual-degree CS graduate** (UK + Egypt) | UAE Golden Visa holder  
-🧠 Building AI systems that reduce hospital visits by **30%**  
-🔐 Security-first developer | IT infrastructure automation  
-⚡ 2+ years of hands-on project experience (full-stack, distributed systems)
-
-- 🔭 **Currently building** → [NeuraMed v2](https://github.com/Yehia-Ibrahim-saleh/neuramed) (AI + RAG pipeline)
-- 🌱 **Learning** → `LangChain` · `Kubernetes` · `Advanced Threat Detection`
-- 💬 **Ask me about** → Flask APIs, distributed systems, networking, deployment strategies
-- 📍 **Based in** → Abu Dhabi, UAE (immediately available)
+**🎓 Computer Science Graduate** — Dual Degree: Egypt 🇪🇬 & UK 🇬🇧  
+**🌍 Based in Abu Dhabi, UAE** — 🏆 Golden Visa Holder  
+**🚀 Open to Full-Time Opportunities — Available Immediately**
 
 ---
 
-## 🚧 Currently Working On
+I design and build **scalable, secure, production-grade systems** across the full stack — from ML-powered healthcare platforms to distributed Java architectures and cloud-deployed APIs.
 
-| Project | Focus | Tech Stack |
-|---------|-------|-------------|
-| 🧠 NeuraMed v2 | AI medical chatbot with RAG | `Python` `LangChain` `ChromaDB` `FastAPI` |
-| ☁️ Cloud Deployment | Containerization & orchestration | `Docker` `AWS (ECS/EKS)` `GitHub Actions` |
-| 🔐 Security Lab | Threat detection & analysis | `Wireshark` `Splunk` `Kali Linux` |
+| 🧠 AI & ML | ⚙️ Distributed Systems | 🔐 Security |
+|:---:|:---:|:---:|
+| Reduced hospital visits **30%** via AI triage | **80% consistency improvement** in distributed file system | HIPAA-aligned · JWT · Active Directory |
 
 ---
 
-## 📊 GitHub Analytics
+### 🔭 Currently Building
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehia-Ibrahim-saleh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Ibrahim-saleh&theme=tokyonight&hide_border=true"/>
-</div>
+**NeuraMed v2** — Upgrading the diagnostic engine with a RAG pipeline using LangChain & ChromaDB for intelligent medical retrieval
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yehia-Ibrahim-saleh&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff"/>
-</div>
+### 🌱 Currently Learning
+`LangChain` &nbsp;·&nbsp; `Kubernetes` &nbsp;·&nbsp; `Advanced Threat Detection`
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia-Ibrahim-saleh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Yehia-Ibrahim-saleh&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</div>
+### 💬 Ask Me About
+Flask APIs &nbsp;·&nbsp; Java RMI Systems &nbsp;·&nbsp; Network Security &nbsp;·&nbsp; System Design
 
 ---
+
+### ⚡ Active Focus Areas
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+**🧠 AI & RAG**
+`NeuraMed v2`
+
+Optimizing diagnostic retrieval with LangChain & ChromaDB
+
+</td>
+<td width="33%" align="center">
+
+**☁️ Cloud & DevOps**
+`Docker · AWS · ECS`
+
+Automating deployments via GitHub Actions & ECS pipelines
+
+</td>
+<td width="33%" align="center">
+
+**🔐 Security Lab**
+`Kali · Splunk`
+
+Active threat monitoring, hunting, and forensic analysis
+
+</td>
+</tr>
+</table>
 
 
 
 ## 🎯 Core Competencies
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🚀 Technical Strengths</h3>
-      <ul>
-        <li>Full‑stack development (MERN, Django, Flask)</li>
-        <li>System administration (Linux, Windows Server)</li>
-        <li>Network security & threat analysis</li>
-        <li>Cloud & DevOps (Docker, AWS, CI/CD)</li>
-        <li>Database design & optimization (SQL, NoSQL)</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💡 Professional Mindset</h3>
-      <ul>
-        <li>⚡ Build scalable, production‑ready systems</li>
-        <li>🔒 Security‑by‑design thinking</li>
-        <li>📈 Data‑driven decision making</li>
-        <li>🤝 Cross‑functional collaboration</li>
-        <li>📚 Continuous learning (5+ certs/year)</li>
-      </ul>
-    </td>
-  </tr>
+<div align="center">
+
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,cpp,go,react,nextjs,django,nodejs,express)](https://skillicons.dev)
+
+### ⚙️ Infrastructure & Security
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,linux,git,kali,bash)](https://skillicons.dev)
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🚀 Engineering Capabilities
+- **Full-Stack Architecture** — Designing scalable web applications and RESTful APIs  
+- **System Administration** — Linux environments, server configuration, and monitoring  
+- **Cybersecurity Practices** — Threat analysis, vulnerability assessment, and secure system design  
+- **DevOps Foundations** — Containerization, version control workflows, and deployment automation  
+
+</td>
+
+<td valign="top" width="50%">
+
+### 💡 Development Approach
+- 🔒 **Security-First Thinking** — Building resilient systems from the ground up  
+- ⚙️ **Scalable Design** — Architecting applications for performance and growth  
+- 🧩 **Problem Solving** — Debugging complex system and infrastructure issues  
+- 📚 **Continuous Learning** — Rapid adoption of modern frameworks and tools  
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 Certifications & Badges
+## 🏆 Featured Certifications
 
 <div align="center">
 
-| Domain | Credentials |
-|--------|--------------|
-| **Cloud & DevOps** | Microsoft Azure Fundamentals · Docker Essentials |
-| **Data & AI** | IBM Data Scientist · Generative AI Leader |
-| **IT Support** | Google IT Support Professional · Cisco Networking |
-| **Development** | HackerRank Software Engineer · Meta Front‑end |
-| **Cybersecurity** | Intro to Cybersecurity · Threat Detection |
+### 🌟 Core Certifications (Most Relevant)
+
+| 🔐 Cybersecurity | 🔧 IT & Infrastructure | 📊 Data & Development |
+| :--- | :--- | :--- |
+| 🛡️ **[Intro to Cybersecurity](https://coursera.org/verify/specialization/QX962BTCLSJG)** | 🖥️ **[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/TYTB60MV1MGG)** | 📊 **[IBM Data Scientist](https://drive.google.com/file/d/1MqO2g8Whg5Zkkkuh1boyGGSRX0lJhyDB/view)** |
+| 🚨 **[Threat Detection](https://coursera.org/verify/GFD9N48BDJED)** | 🌐 **[Cisco Networking](https://drive.google.com/drive/folders/1Qnm27LKOkDnga3EezKZ8Bc2Uk3LhIVzf)** | 💻 **[Software Engineer (HackerRank)](https://www.hackerrank.com/certificates/e3a89d385f0e)** |
 
 </div>
 
-<details>
-<summary>📜 View full certification list (click)</summary>
+---
 
-- 2025 – Generative AI Strategic Leader (Coursera)
-- 2025 – Microsoft Certified: Azure Fundamentals
-- 2025 – Software Engineer Certification (HackerRank)
-- 2024 – IBM Data Scientist (DEPI Program)
-- 2024 – Google IT Support Specialization
-- 2024 – Meta Front‑End Developer Certificate
-- 2023 – CISCO Introduction to Networks
-- 2021 – Introduction to Cybersecurity (Coursera)
+<details>
+<summary>📜 <b>Full Certification Timeline (2021–2025)</b></summary>
+
+<br>
+
+### 🚀 2025
+- 🧠 Generative AI Strategic Leader — Coursera  
+- ☁️ Microsoft Certified: Azure Fundamentals  
+- 💻 Software Engineer Certification — HackerRank  
+
+### 📈 2024
+- 🎨 Meta Front-End Developer Certificate  
+- 📊 IBM Data Scientist (DEPI Program)  
+
+### 🛡️ 2021
+- 🔐 Introduction to Cybersecurity — Coursera  
 
 </details>
 
 ---
 
+<div align="center">
+
+### 🎯 Certification Focus Areas
+
+🔐 Cybersecurity · 🖥️ IT Support · ☁️ Cloud · 📊 Data Science · 💻 Software Engineering  
+
+</div>
 
 
 ## 🛠️ Technology Arsenal
@@ -146,39 +184,111 @@
 
 ---
 
+
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🩺 NeuraMed AI** | Medical chatbot that reduced unnecessary hospital visits by **30%** | `Python` `TF` `Flask` `MongoDB` | [Repo](https://github.com/Yehia-Ibrahim-saleh/neuramed) · [Demo](https://neuramed.demo) |
-| **📁 RMI DFS** | Distributed file system with **80% consistency improvement** | `Java` `RMI` | [Repo](https://github.com/Yehia-Ibrahim-saleh/rmi-dfs) |
-| **🖥️ Computer Guardian** | Aggregated 500+ guides + automated procurement (35% faster) | `PHP` `JS` `REST` | [Repo](https://github.com/Yehia-Ibrahim-saleh/computer-guardian) |
-| **🔧 SIC-XE Assembler** | Two‑pass assembler with 100% accurate object code | `Python` | [Repo](https://github.com/Yehia-Ibrahim-saleh/sic-xe) |
+<table border="0">
+  <tr>
+    <!-- Project 1: NeuraMed -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI_Healthcare-37BCF8?style=for-the-badge&logo=ai&logoColor=white" />
+      </div>
+      <br>
+      <p align="center"><b>🩺 NeuraMed (HeyDoc AI)</b></p>
+      <p>Engineered a Python/TensorFlow ML triage system providing real-time diagnostic predictions. 
+      <br>📉 <b>Impact:</b> Reduced unnecessary clinic visits by <b>30%</b>.</p>
+      <div align="center">
+        <code>Python</code> <code>TF</code> <code>Flask</code> <code>MongoDB</code>
+      </div>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Yehia-Ibrahim-saleh/neuramed"><img src="https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-4E73DF?style=flat-square&logo=browser&logoColor=white" /></a>
+      </div>
+    </td>
+    <!-- Project 2: RMI DFS -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge&logo=apache&logoColor=white" />
+      </div>
+      <br>
+      <p align="center"><b>📁 RMI Distributed File System</b></p>
+      <p>Architected a distributed system using Java RMI. 
+      <br>⚙️ <b>Impact:</b> Achieved <b>80% data consistency</b> via logical clock algorithms and priority queue management.</p>
+      <div align="center">
+        <code>Java</code> <code>RMI</code> <code>Network Security</code>
+      </div>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Yehia-Ibrahim-saleh/rmi-dfs"><img src="https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: Computer Guardian -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Full_Stack_Commerce-00D4FF?style=for-the-badge&logo=php&logoColor=white" />
+      </div>
+      <br>
+      <p align="center"><b>🖥️ Computer Guardian</b></p>
+      <p>Full-stack marketplace aggregating inventory from 5 major retailers. 
+      <br>📦 <b>Impact:</b> Automated nationwide procurement, increasing speed by <b>35%</b>.</p>
+      <div align="center">
+        <code>PHP</code> <code>JS</code> <code>REST APIs</code> <code>MySQL</code>
+      </div>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Yehia-Ibrahim-saleh/computer-guardian"><img src="https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <!-- Project 4: SIC-XE -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Systems_Programming-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
+      </div>
+      <br>
+      <p align="center"><b>🔧 SIC-XE Assembler</b></p>
+      <p>Low-level systems project demonstrating deep compiler design. 
+      <br>💎 <b>Impact:</b> Generated <b>100% accurate</b> object code and HTE records for SIC-XE architecture.</p>
+      <div align="center">
+        <code>Python</code> <code>Assembly</code> <code>Compilers</code>
+      </div>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Yehia-Ibrahim-saleh/sic-xe"><img src="https://img.shields.io/badge/View_Repo-100000?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-
-
-
-
-
-
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
-  <a href="mailto:yahyaibrahem45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Yehia-Ibrahim-saleh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/your-id"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</div>
 
----
+*The best solutions start with a conversation — let's build something great together.*
 
-<div align="center">
-  <b>📌 Open for full‑time opportunities & internships</b><br/>
-  📍 Abu Dhabi, UAE · 🛂 Golden Visa (no sponsorship required)<br/>
-  📅 Last updated: April 2026
+<br/>
+
+<a href="mailto:yahyaibrahem45@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yehia-ibrahim-8154b0201/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/Yehia-Ibrahim-saleh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=📍+Abu+Dhabi%2C+UAE+·+No+sponsorship+required;🚀+Open+to+full-time+opportunities;💬+yahyaibrahem45%40gmail.com" />
+
 </div>
 
 <!-- Footer Wave -->
