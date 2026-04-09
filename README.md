@@ -16,37 +16,66 @@
   <img src="https://img.shields.io/badge/VISA-RESIDENT_NO_SPONSOR-00D4FF?style=for-the-badge&logo=aircanadacargo&logoColor=white"/>
 </p>
 
----
-
-## 🛰️ Mission Brief
+## 🛰️ About Me
 
 <div align="center">
 <table width="100%" style="border-collapse: collapse; border: 1px solid #7C3AED; background-color: #0d1117;">
   <tr>
-    <td style="padding: 20px; border: none;">
-      <p align="left">
-        <code><b>[ENGINEER_ID: YEHIA_IBRAHIM]</b></code><br>
-        <br>
-        <i>"Building systems that deliver real-world impact—not just code that runs."</i>
-        <br><br>
-        I am a <b>Software Developer</b> specialized in <b>Distributed Systems</b>, <b>AI Integration</b>, and <b>Cybersecurity</b>. I architect production-grade applications with a heavy emphasis on <b>Security-First Design</b> and system reliability. From optimizing Java-based distributed architectures to deploying RAG-powered AI triage systems, I build for scale and resilience.
-      </p>
+    <td width="33%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/FOUNDATIONS-MINDSET-00D4FF?style=for-the-badge&logo=thought&logoColor=white" />
+      </div>
+      <br>
+      <b>How I Think</b><br>
+      <sub style="color: #8b949e;">Curious · Pragmatic · Empathetic</sub>
       <hr style="border: 0.5px solid #30363d;">
-      <p align="left">
-        🚀 <b>Active Project:</b> <code>NeuraMed v2</code> — Enhancing diagnostic RAG pipelines.<br>
-        🔧 <b>Systems Lab:</b> DIY Robotics & Raspberry Pi hardware integration.
+      <p align="left" style="font-size: 13px;">
+        ● I believe code is a means to <b>reduce human friction</b> – if it doesn’t make someone’s day easier, it’s just noise.<br>
+        ● I ask “<b>why</b>” relentlessly before touching the keyboard. The clearest solution is often the simplest.<br>
+        ● I value <b>maintainability over cleverness</b> – I write for the person who will debug this at 2 AM (often me).
       </p>
     </td>
-    <td width="30%" align="center" style="border-left: 1px solid #30363d; background: linear-gradient(180deg, #0d1117 0%, #161b22 100%);">
-        <img src="https://img.shields.io/badge/LOGISTICS-READY-00D4FF?style=flat-square"/><br>
-        <img src="https://img.shields.io/badge/RESIDENCE-UAE-7C3AED?style=flat-square"/><br>
-        <img src="https://img.shields.io/badge/VISA-RESIDENT-white?style=flat-square"/>
+    <td width="33%" valign="top" style="padding: 20px; border-right: 1px solid #30363d;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/ARCHITECT-APPROACH-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white" />
+      </div>
+      <br>
+      <b>How I Build</b><br>
+      <sub style="color: #8b949e;">Iterative · Responsible · Transparent</sub>
+      <hr style="border: 0.5px solid #30363d;">
+      <p align="left" style="font-size: 13px;">
+        ● I break big problems into <b>shippable slices</b> – a working 20% is better than a perfect 0%.<br>
+        ● I automate anything that hurts twice, but never before understanding the manual process deeply.<br>
+        ● I write tests not because I have to, but because <b>confidence in my code</b> lets me sleep better.
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding: 20px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/IMPACT-DRIVERS-00C851?style=for-the-badge&logo=heart&logoColor=white" />
+      </div>
+      <br>
+      <b>What Drives Me</b><br>
+      <sub style="color: #8b949e;">Ownership · Growth · Reality</sub>
+      <hr style="border: 0.5px solid #30363d;">
+      <p align="left" style="font-size: 13px;">
+        ● I take <b>full ownership</b> from whiteboard to production logs – if I built it, I support it.<br>
+        ● I’m energised by <b>vague, messy problems</b> – the kind where requirements are a conversation, not a ticket.<br>
+        ● I learn fastest by <b>breaking things and fixing them</b> – then writing a note so I never make the same mistake twice.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #161b22;">
+  <tr>
+    <td style="padding: 12px;" align="center">
+      <code><b>⚡ ONE LINE:</b> Software engineer who builds with empathy, ships with discipline, and grows by curiosity.</code>
     </td>
   </tr>
 </table>
 </div>
-
----
 
 ## 🛠️ The Arsenal
 
